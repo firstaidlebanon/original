@@ -154,8 +154,9 @@ h1, h2, strong {
     padding: 1.25em 0;
     text-decoration: none;
     width: 250px;
-    color: #black;
+    color: black;
     font-weight: 700;
+    text-align: center;
 }
 
 .nav {
