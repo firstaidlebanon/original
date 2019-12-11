@@ -151,9 +151,11 @@ h1, h2, strong {
 
 .logo-link {
     background-color: #FFE600;
-    padding-top: 2em;
+    padding: 1.25em 0;
     text-decoration: none;
-    width: 150px;
+    width: 250px;
+    color: #black;
+    font-weight: 700;
 }
 
 .nav {
