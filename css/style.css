@@ -157,6 +157,7 @@ h1, h2, strong {
     color: black;
     font-weight: 700;
     text-align: center;
+    font-size: 1.5rem;
 }
 
 .nav {
