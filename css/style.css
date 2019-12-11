@@ -322,12 +322,12 @@ h1, h2, strong {
 ===================== */
 
 .hero {
-    background-image: url(img/hero-bg.jpg);
-    background-size: cover;
-    background-position: bottom;
+    background-image: url(../hand.png);
+    background-position: 80% 40%;
     padding: 8em 0 4em;
     color: #fff;
-    background: black;
+    background-color: black;
+    background-repeat: no-repeat;
 }
 
 .hero > * {
